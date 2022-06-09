@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+nav ul li{
+	list-style:none;
+	float:left;
+}
+
+.header{
+	width:750px;
+}
+
+.nav{
+	height:10px;
+}
+h2{
+	background-color:lightgreen;
+	width:700px;
+	text-align:center;
+}
+.p{
+	width:710px;
+	border:1px solid black;
+	padding:10px;
+}
+
+section ul li{
+	list-style : url("img/bullet_star.png");
+}
+
+table ,tr, td{
+	border:1px solid black; border-collapse:collapse;
+	width:300px;
+	text-align: center;
+}
+
+footer{
+	width:750px;
+	text-align:center;
+	background-color: blue;
+	color:white;
+}
